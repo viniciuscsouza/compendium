@@ -1,0 +1,67 @@
+{
+  "version": 3,
+  "skills": {
+    "skill-creator": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/anthropics/skills.git",
+      "skillPath": "skills/skill-creator/SKILL.md",
+      "skillFolderHash": "5c26c1472b98de33a48074ba5d3efe3a727b8e37",
+      "pluginName": "example-skills",
+      "installedAt": "2026-03-05T20:33:22.924Z",
+      "updatedAt": "2026-03-05T20:33:22.924Z"
+    },
+    "mcp-builder": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/anthropics/skills.git",
+      "skillPath": "skills/mcp-builder/SKILL.md",
+      "skillFolderHash": "9173e2c2107aac82d4ca6c726d71e89d11760470",
+      "pluginName": "example-skills",
+      "installedAt": "2026-03-05T20:33:23.035Z",
+      "updatedAt": "2026-03-05T20:33:23.035Z"
+    },
+    "template-skill": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/anthropics/skills.git",
+      "skillPath": "template/SKILL.md",
+      "skillFolderHash": "a38aa7fa73fd2835b9ce77a60274f7dc62d015a6",
+      "installedAt": "2026-03-05T20:33:23.135Z",
+      "updatedAt": "2026-03-05T20:33:23.135Z"
+    },
+    "canvas-design": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/anthropics/skills.git",
+      "skillPath": "skills/canvas-design/SKILL.md",
+      "skillFolderHash": "928af0a3279dc4e0c0e6ceaf407a8542a2bb2aa2",
+      "pluginName": "example-skills",
+      "installedAt": "2026-03-05T20:33:23.222Z",
+      "updatedAt": "2026-03-05T20:33:23.222Z"
+    },
+    "find-skills": {
+      "source": "vercel-labs/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/skills.git",
+      "skillPath": "skills/find-skills/SKILL.md",
+      "skillFolderHash": "c2f31172b6f256272305a5e6e7228b258446899f",
+      "installedAt": "2026-03-05T20:33:36.888Z",
+      "updatedAt": "2026-03-05T20:33:36.888Z"
+    }
+  },
+  "dismissed": {
+    "findSkillsPrompt": true
+  },
+  "lastSelectedAgents": [
+    "amp",
+    "cline",
+    "codex",
+    "cursor",
+    "gemini-cli",
+    "github-copilot",
+    "kimi-cli",
+    "opencode",
+    "antigravity"
+  ]
+}
